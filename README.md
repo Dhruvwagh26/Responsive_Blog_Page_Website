@@ -16,3 +16,6 @@ responsiveness, the project offers a visually appealing and user-friendly platfo
 visitors to browse blog content. This demonstrates your proficiency in front-end 
 web development and showcases your ability to create a functional and attractive 
 website without relying on JavaScript for interactivity or animation.
+![blog1](https://github.com/Dhruvwagh26/Responsive_Blog_Page_Website/assets/114526284/3b20bfec-0a57-4f52-bcb4-d2efe576151e)
+
+![blog2](https://github.com/Dhruvwagh26/Responsive_Blog_Page_Website/assets/114526284/723ace35-3124-435b-9d5a-ceab43240224)
